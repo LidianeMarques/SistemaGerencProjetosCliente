@@ -1,0 +1,13 @@
+# Obrigatória: Esses são os principais libs requeridas para o core funcionar
+    Django==2.2.5
+    requests==2.22.0
+    Pillow==6.1.0
+    PyYAML==5.1.2
+# Opcional: Essas libs é para quem for usar projetos com uso do banco Postgres
+    psycopg2-binary
+#---------------------------------------------------------------
+# Opcional: Essa lib é para quem for usar projetos com utilização de funcionalidades apirest e utilização das libs rest-social
+    djangorestframework==3.10.2
+#---------------------------------------------------------------
+
+django_tables2
